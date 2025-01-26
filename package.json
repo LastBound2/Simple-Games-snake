@@ -1,0 +1,16 @@
+{
+    "name": "snake-game",
+    "version": "1.0.0",
+    "description": "A simple Snake game where the player controls a green snake that eats red fruits.",
+    "main": "src/script.js",
+    "scripts": {
+      "start": "live-server src"
+    },
+    "keywords": [
+      "snake",
+      "game",
+      "javascript"
+    ],
+    "author": "Your Name",
+    "license": "MIT"
+  }
